@@ -1,0 +1,318 @@
+\devmoodle clone
+git@git.grazitti.com:internal.grazitti/moodle.git
+
+
+dev lms id password
+https://devmoodle-lms.grazitti.com/
+Username - admin
+Password - Grazitti@271#####
+skillstone
+http://dev.skillstone.in/wp-admin/edit-tags.php?taxonomy=category
+ dashboard 
+usernmae:admin
+password:c$OgIN7STUk*jQExy!GF*g3*
+
+tigonadvisory
+live
+
+https://tigonadvisory.com/wp-admin
+Live URL = https://tigonadvisory.com/ 
+Username = nikhils@grazitti.com
+password = Ic85rF%LpNx4*!K&
+
+linkedin
+https://www.linkedin.com/pulse/data-fabric-winning-battle-against-deluge-tigon-advisory-corp/?trackingId=KssJuvPnSGa%2FLdEzueHnhQ%3D%3D
+
+https://clients.grazitti.com/tigonadvisory/data-fabric-winning-the-battle-against-data-deluge/
+
+
+blog xls
+https://docs.google.com/spreadsheets/d/1NoqPTGBoErIrtvTcN7Uu7Ev4c1tUe4pJ/edit#gid=1659515486
+
+client tigonadvisory
+Username = admin Password = Grazitti@164
+https://clients.grazitti.com/tigonadvisory/category/cyber-security/
+
+localhost/moodel-3.9.9
+username: admin
+password:Amitpal1@2
+
+localhost/moodle
+username: admin
+password:Amitpal1@2
+
+
+
+grazitti interactive
+
+
+
+
+https://newdev-intranet.grazitti.com/wp-admin/edit.php
+dev
+
+new joinee
+https://intranet.grazitti.com/new-joinee/
+
+
+
+
+
+https://designmoodle-lms.grazitti.com/
+Username = admin
+Password = Grazitti@2021#$$
+
+
+
+
+
+plugin moodle
+https://docs.moodle.org/dev/Plugin_types
+
+
+skillstone git clone
+git@git.grazitti.com:grazitti/skillstone-in.git
+
+
+Mantis
+http://192.168.0.2/clients/mantisbt/verify.php?id=337&confirm_hash=8XOKL0igSaJZ5TOC3CUHsxUUMmVJD2_yqDQdzNC_ukNiYDk3DNMOIPaAyQH1xVlQEQL2bUvn2s_KvhwVs0Ob
+username:
+amit.pal
+pass: Amitpal1@2
+
+zoho:
+https://projects.zoho.com/portal/grazittiinteractive#taskdetail/1168243000006027141/1168243000006993023/1168243000007737021
+
+
+
+git clone for intranet
+URL: git@git.grazitti.com:astore/new-intranet.git
+
+
+http://demo.skillstone.in/wp-login.php?redirect_to=http%3A%2F%2Fdemo.skillstone.in%2Fwp-admin%2F&reauth=1
+email - alka.thakur@grazitti.com
+New password - ^iBJPCfW(tsr2nrFm@42ETgZ
+
+test user for newdemodev
+Email - testusers@gmail.com
+Password - Grazitti$123
+
+
+799
+
+timesheet userid and password
+amit.pal
+Amitpal1@23
+
+jira userid and password
+amit.pal
+Google$123
+
+gmail id and password
+amit.pal@grazitti.com
+Amitpal1@234567
+
+
+
+laravel id
+http://192.168.4.178/login
+
+
+udemy id and password:
+https://www.udemy.com
+Username = dhkmr2006@gmail.com
+Password = Shankar@1986#
+
+
+
+
+
+
+https://designmoodle-lms.grazitti.com/phpmyadmin
+Username = designmoodle
+password = Des@32mle9^9
+
+
+
+amit.pal11@outlook.com
+
+
+local_wordpress
+username: fitness_freak@pal
+password:s*#XPD4NMDmdzA^Ccm
+
+
+
+/** MySQL database username */
+define( 'DB_USER', 'devskillstone' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', 'OL1iH7Yur#U^gfke' );
+
+
+
+
+
+moodle elearning credential
+password   -->   1WVy8eYIqi7pc
+elearning_user
+Database ->  elearning_db
+https://grzdemo.grazitti.com/phpmyadmin/
+git@git.grazitti.com:demo.grazitti/elearning.git
+
+https://grzdemo.grazitti.com/elearning
+
+Username:Admin
+Password:Elearning#grz12#
+
+newdemodev.skillstone author role
+amit.pal
+*vCH02M$izffrI1og2x1N*q#
+
+
+Card No: 4012 0010 3714 1112                      
+CVV: 123                                                
+Expr. Date: 12/2022                                  
+Name-Test
+
+define( 'DB_USER', 'newdemodevskillstone_user' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', 'GHJfhdc^dk23gJdhg@gd9!L6hsfdf!dg' );
+
+alka.users13@gmail.com
+Enableit1$
+
+
+npm install react-router-dom@6 history@5
+
+
+https://grzdemo.grazitti.com/elearningdemo
+username: admin
+password: Grazitti@164
+
+
+
+tigonadvisory dev git 
+
+git@git.grazitti.com:demo.grazitti/tigonadvisory.git
+grzdemo.grazitti.com/phpmyadmin
+https://grzdemo.grazitti.com/tigonadvisory/
+
+
+
+devmoodle db access
+dbname:moodle
+dbpassword:M23bf$4r2!Q
+
+
+skillstone.org moodle git url
+git@git.grazitti.com:Grazitti/skillstone-moodle.git
+
+
+Card No: 4012 0010 3714 1112                      
+CVV: 123                                                
+Expr. Date: 12/2023                                  
+Name-Test
+
+
+alka.users13@gmail.com
+Enableit1$
+
+
+define( 'DB_USER', 'devskillstone' );
+define( 'DB_PASSWORD', 'OL1iH7Yur#U^gfke' );
+
+
+
+Database Access of live skillstone:-
+
+** MySQL database username */
+define( 'DB_USER', 'skillstone' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', 'KHkjcb@3H!^gfPoU' );
+
+
+
+Login Access of  skillstone site:
+
+email - alka.thakur@grazitti.com
+New password - ^iBJPCfW(tsr2nrFm@42ETgZ
+
+
+Login Access of Skillstone.org:-
+
+http://skillstone.org    
+Username - admin
+Password - Abcd@1234 
+
+
+skillstone git url:git@git.grazitti.com:Grazitti/skillstone-in.git
+
+
+
+-------------------------------------------
+
+Passwords of Moodle
+
+https://devmoodle-lms.grazitti.com/
+Username - admin
+Password - Grazitti@198**###
+
+https://testmoodle.grazitti.com/
+Username - admin
+Password - Grazitti@live198*****##
+ 
+https://moodle-lms.grazitti.com/
+Username - admin
+Password -  Grazitti@live198******##,Grazitti@2023##$
+
+                                                                                                                                                                                                                               
+
+http://skillstone.org    
+Username - admin
+Password - Grazitti@198## 
+
+
+https://designmoodle-lms.grazitti.com/
+Username = admin
+Password =  Grazitti@2006$$#########
+
+
+https://skills.grazitti.com/
+Username - admin
+Password - Grazitti@198**#####
+
+
+
+phpmyadmin for skillstone.org
+https://electronicsindia.co.in/phpmyadmin/
+
+
+//local wordpress
+username: admin
+password: vgp23P^UO(XFpJFcPG
+
+
+https://newdemodev.skillstone.in/elementor-19808/
+
+https://www.skillstone.in/phpmyadmin/
+db name: newdemodevskillstone_db
+db user: newdemodevskillstone_user
+password: GHJfhdc^dk23gJdhg@gd9!L6hsfdf!dg
+
+
+
+
+
+
+FTP Staging --------------------------------------------------------------
+Hostname: c69176.sgvps.net
+username: stagingadmin@iit2024.org
+password: ee3b*611b4@
+Port: 21
+===========================================================Wp-admin details: 
+site url:  https://staging2.iit2024.org/wp-admin/
+username: admin_iit2024
+password:  vaEUuxZ^5%joJQoWZ#PawkAb
